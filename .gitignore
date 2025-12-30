@@ -1,0 +1,7 @@
+# Gizli anahtarın ve tuz değerin (En önemlisi bu)
+.env
+
+# Python'un kendi oluşturduğu sanal ortam klasörleri
+venv/
+env/
+.venv/
